@@ -41,6 +41,6 @@ my_env
 local_settings.py
 
 /static
-/media/
+/media
 __pycache__/
 .vscode/
